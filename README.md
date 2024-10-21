@@ -1,1 +1,1 @@
-# split-ease
+# An efficient bill splitting android application.
